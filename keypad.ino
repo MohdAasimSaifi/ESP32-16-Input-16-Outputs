@@ -22,7 +22,7 @@ char keys[ROW_NUM][COLUMN_NUM] = {
   {'I', 'J', 'K', 'L'},
   {'M', 'N', 'O', 'P'}
 };
-//D1=K,D2=L,D3=M,D4=N,D5=O,D6=P,D7=Q,D8=R,F1=S,F2=T,FO=U,R1=V,R2=W,RO=X,AMP=Y,SUB=Z
+//D1=A,D2=B,D3=C,D4=D,D5=E,D6=F,D7=G,D8=H,F0=I,F1=J,F2=K,RO=L,R1=M,R2=N,AMP=O,SUB=P
 const int F1=19,F2=18,FO=5,R1=17,R2=16,RO=4,AMP=2,SUB=15;;
 
 
